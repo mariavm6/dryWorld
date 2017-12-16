@@ -1,91 +1,91 @@
-# dryWorld
+Ôªø# dryWorld
 
 # Procesado de contenido multimedia
-En esta pr·ctica hemos trabajado las diferentes modificaciones que se pueden hacer en contenido multimedia de im·genes, vÌdeo y audio.
-Todo esto integrado en una p·gina web. TambiÈn hemos creado un banner publicitario.
+En esta pr√°ctica hemos trabajado las diferentes modificaciones que se pueden hacer en contenido multimedia de im√°genes, v√≠deo y audio.
+Todo esto integrado en una p√°gina web. Tambi√©n hemos creado un banner publicitario.
 
-## EdiciÛn de las im·genes
+## Edici√≥n de las im√°genes
 
-Todas las im·genes las he editado con la herramienta Gimp, cuentan con una marca de agua creada con la herramienta de texto que crea una capa a la que reducimos la opacidad [Proceso creaciÛn marca de agua](img/marca de agua.PNG). 
-Dentro del proyecto est·n guardadas las im·genes originales y en los diferentes formatos requeridos en la r˙brica.
+Todas las im√°genes las he editado con la herramienta Gimp, cuentan con una marca de agua creada con la herramienta de texto que crea una capa a la que reducimos la opacidad [Proceso creaci√≥n marca de agua](img/marca de agua.PNG). 
+Dentro del proyecto est√°n guardadas las im√°genes originales y en los diferentes formatos requeridos en la r√∫brica.
 + **Desierto** 
-Con la herramienta de clonaciÛn, cogiendo como patrÛn la textura de la arena se consigue borrar a la persona que aparece en la imagen original.
-[Proceso EdiciÛn](img/edicionDesierto.PNG)
+Con la herramienta de clonaci√≥n, cogiendo como patr√≥n la textura de la arena se consigue borrar a la persona que aparece en la imagen original.
+[Proceso Edici√≥n](img/edicionDesierto.PNG)
 [Imagen Desierto](img/Desierto.jpg)
-+ **SequÌa1**
-Para cambiar las nubes las seleccionÈ con la herramienta de selecciÛn difusa que selecciona una regiÛn contigua bas·ndose en el color y despuÈs con la herramienta de balance de color, ajustÈ los niveles de color hasta conseguir un color rosa anaranjado.
-Otra modificaciÛn fue quitar la vegetaciÛn de la imagen con la herramienta de clonado tomando como patrÛn la montaÒa, el suelo o el cielo. 
-Al quitar la vegetaciÛn el puente habÌa que alargarlo y para ello seleccionÈ uno de los arcos del puente y lo copiÈ como una capa. DespuÈs subÌ la altura del terraplÈn de la derecha con la herramienta de clonado.
++ **Sequ√≠a1**
+Para cambiar las nubes las seleccion√© con la herramienta de selecci√≥n difusa que selecciona una regi√≥n contigua bas√°ndose en el color y despu√©s con la herramienta de balance de color, ajust√© los niveles de color hasta conseguir un color rosa anaranjado.
+Otra modificaci√≥n fue quitar la vegetaci√≥n de la imagen con la herramienta de clonado tomando como patr√≥n la monta√±a, el suelo o el cielo. 
+Al quitar la vegetaci√≥n el puente hab√≠a que alargarlo y para ello seleccion√© uno de los arcos del puente y lo copi√© como una capa. Despu√©s sub√≠ la altura del terrapl√©n de la derecha con la herramienta de clonado.
 Para dar un poco de luminosidad a la imagen, puse un destello con degradado simulando el Sol.
-[Proceso EdiciÛn 1](img/edicionEmbalse1.PNG) 
-[Proceso EdiciÛn 2](img/edicionEmbalse2.PNG) 
-[Proceso EdiciÛn 3](img/edicionEmbalse3.PNG)
-[imagen SequÌa1](img/sequÌa1.jpg)
-+ **SequÌa2**
-Para poder seleccionar el curso del rio, activÈ la m·scara y con la herramienta borrador seleccionÈ el curso del rio y lo borrÈ con la tecla suprimir.
-DespuÈs con la herramienta de selecciÛn invertÌ la imagen para seleccionar la parte del puente, montaÒas y cielo, la cortÈ y la peguÈ en una nueva imagen como una nueva capa en una nueva imagen con el fondo transparente. 
-Para poner la lava descarguÈ una imagen con licencia para poder modificarla. La lava la formÈ con la misma imagen pero puesta en distintas capas y diferentes posiciones e inclinaciones. Una de las capas est· formada por un recorte de la misma imagen.
-El fondo de la imagen lo oscurecÌ con la herramienta Tono y saturaciÛn, modificando la luminosidad y  saturaciÛn. SeguÌ la misma tÈcnica con la parte de la lava para que el contraste de color no fuese tan notorio y para conseguir un ambiente con humo.
-Aun oscureciendo la parte de la lava el contraste seguÌa muy marcado. Por lo que utilicÈ la herramienta de desparasitar para suavizar m·s el corte entre las capas.
-Para crear un ambiente con humo y unificar toda la imagen utilicÈ la herramienta de renderizado y creÈ unas nubes oscuras simulando humo. 
-El detalle de la luna est· hecho con uno de los pinceles del programa.
-[Proceso EdiciÛn 1](img/edicionPuente0.PNG) 
-[Proceso EdiciÛn 2](img/edicionPuente1.PNG) 
-[Proceso EdiciÛn 3](img/edicionPuente2.PNG) 
-[Proceso EdiciÛn 4](img/edicionPuente3.PNG) 
-[Proceso EdiciÛn 5](img/edicionPuente4.PNG) 
-[Proceso EdiciÛn 6](img/edicionPuente5.PNG) 
+[Proceso Edici√≥n 1](img/edicionEmbalse1.PNG) 
+[Proceso Edici√≥n 2](img/edicionEmbalse2.PNG) 
+[Proceso Edici√≥n 3](img/edicionEmbalse3.PNG)
+[imagen Sequ√≠a1](img/sequ√≠a1.jpg)
++ **Sequ√≠a2**
+Para poder seleccionar el curso del rio, activ√© la m√°scara y con la herramienta borrador seleccion√© el curso del rio y lo borr√© con la tecla suprimir.
+Despu√©s con la herramienta de selecci√≥n invert√≠ la imagen para seleccionar la parte del puente, monta√±as y cielo, la cort√© y la pegu√© en una nueva imagen como una nueva capa en una nueva imagen con el fondo transparente. 
+Para poner la lava descargu√© una imagen con licencia para poder modificarla. La lava la form√© con la misma imagen pero puesta en distintas capas y diferentes posiciones e inclinaciones. Una de las capas est√° formada por un recorte de la misma imagen.
+El fondo de la imagen lo oscurec√≠ con la herramienta Tono y saturaci√≥n, modificando la luminosidad y  saturaci√≥n. Segu√≠ la misma t√©cnica con la parte de la lava para que el contraste de color no fuese tan notorio y para conseguir un ambiente con humo.
+Aun oscureciendo la parte de la lava el contraste segu√≠a muy marcado. Por lo que utilic√© la herramienta de desparasitar para suavizar m√°s el corte entre las capas.
+Para crear un ambiente con humo y unificar toda la imagen utilic√© la herramienta de renderizado y cre√© unas nubes oscuras simulando humo. 
+El detalle de la luna est√° hecho con uno de los pinceles del programa.
+[Proceso Edici√≥n 1](img/edicionPuente0.PNG) 
+[Proceso Edici√≥n 2](img/edicionPuente1.PNG) 
+[Proceso Edici√≥n 3](img/edicionPuente2.PNG) 
+[Proceso Edici√≥n 4](img/edicionPuente3.PNG) 
+[Proceso Edici√≥n 5](img/edicionPuente4.PNG) 
+[Proceso Edici√≥n 6](img/edicionPuente5.PNG) 
 [Imagen lava](img/lava.jpg) 
-[Imagen SequÌa2](img/sequÌa2.jpg)
+[Imagen Sequ√≠a2](img/sequ√≠a2.jpg)
 
-+ Reduccion del tamaÒo de las im·genes: Con el programa Adobe Photoshop he reducido el tamaÒo y la calidad de las im·genes para que ocuparan lo menos posible.[Proceso cambio de tamaÒo y calidad 1](img/calidad.JPG) [Proceso cambio de tamaÒo y calidad 2](img/tamaÒo.JPG)
++ Reduccion del tama√±o de las im√°genes: Con el programa Adobe Photoshop he reducido el tama√±o y la calidad de las im√°genes para que ocuparan lo menos posible.[Proceso cambio de tama√±o y calidad 1](img/calidad.JPG) [Proceso cambio de tama√±o y calidad 2](img/tama√±o.JPG)
 
-+ Cambiar formato img: Para cambiar el formato de las im·genes lo hice de forma online en [https://www.aconvert.com](https://www.aconvert.com).
++ Cambiar formato img: Para cambiar el formato de las im√°genes lo hice de forma online en [https://www.aconvert.com](https://www.aconvert.com).
 
-## EdiciÛn del vÌdeo:
+## Edici√≥n del v√≠deo:
 
-Para poder utilizar la herramienta de ediciÛn movie maker he tenido que cambiar el formato del video, para ello he utilizado un [conversor de video online](https://video.online-convert.com/es/convertir-a-mp4). Para que ocupara menos tambiÈn cambiÈ el cÛdec con la misma herramienta online a mpeg4.
+Para poder utilizar la herramienta de edici√≥n movie maker he tenido que cambiar el formato del video, para ello he utilizado un [conversor de video online](https://video.online-convert.com/es/convertir-a-mp4). Para que ocupara menos tambi√©n cambi√© el c√≥dec con la misma herramienta online a mpeg4.
 Cortar el video para que empiece en 2017 y se corta con la herramienta Split.
-En Edit aumento la velocidad a 1.75px para que se pueda visualizar la mayor parte del video y despuÈs vuelvo a utilizar la herramienta Split para que el video dure los 10s solicitados.
-Para empezar el video he puesto la animaciÛn de flip. Otra modificaciÛn ha sido usar el efecto visual Hue - cycle entire colorspectrum y aÒadÌ audio al vÌdeo.
-DespuÈs en el escaparate virtual dentro de la etiqueta <video> con el atributo poster puse una im·gen que se muestra en el escaparate virtual antes de que se reproduzca el vÌdeo.
-[Imagen poster](img/poster.jpg)   [VÌdeo](video/TemperaturaYprecepitaciÛnSigloXXI.mp4)
+En Edit aumento la velocidad a 1.75px para que se pueda visualizar la mayor parte del video y despu√©s vuelvo a utilizar la herramienta Split para que el video dure los 10s solicitados.
+Para empezar el video he puesto la animaci√≥n de flip. Otra modificaci√≥n ha sido usar el efecto visual Hue - cycle entire colorspectrum y a√±ad√≠ audio al v√≠deo.
+Despu√©s en el escaparate virtual dentro de la etiqueta <video> con el atributo poster puse una im√°gen que se muestra en el escaparate virtual antes de que se reproduzca el v√≠deo.
+[Imagen poster](img/poster.jpg)   [V√≠deo](video/TemperaturaYprecepitaci√≥nSigloXXI.mp4)
 
-## EdiciÛn del audio:
-Los audios utilizados en esta pr·ctica incluÌdo el del vÌdeo los descarguÈ de la p·gina [https://www.bensound.com](https://www.bensound.com).
-UtilicÈ la herramienta audacity. Primero recorte el audio para que tuviera la duraciÛn requerida de un minuto.
+## Edici√≥n del audio:
+Los audios utilizados en esta pr√°ctica inclu√≠do el del v√≠deo los descargu√© de la p√°gina [https://www.bensound.com](https://www.bensound.com).
+Utilic√© la herramienta audacity. Primero recorte el audio para que tuviera la duraci√≥n requerida de un minuto.
 Las modificaciones que he aplicado han sido las de aparecer y desvanecerse progresivamente y modificar los
 graves y agudos.
-[Proceso EdiciÛn](img/edicionAudio.PNG)
+[Proceso Edici√≥n](img/edicionAudio.PNG)
 
-+ Cambiar formato de audio y video: UtilicÈ la herramienta Free Studio.
++ Cambiar formato de audio y video: Utilic√© la herramienta Free Studio.
 
 ## Logo:
-Lo cree en la p·gina [https://es.freelogodesign.org](https://es.freelogodesign.org).
+Lo cree en la p√°gina [https://es.freelogodesign.org](https://es.freelogodesign.org).
 
 ## Banner:
-Para la creaciÛn del banner he utilizado la herramienta de Google Web Designer.
+Para la creaci√≥n del banner he utilizado la herramienta de Google Web Designer.
 He creado el banner con unas dimensiones de 300x250 px.
-El banner consta de dos p·ginas para poder crear la animaciÛn.
+El banner consta de dos p√°ginas para poder crear la animaci√≥n.
 
-En la primera p·gina he puesto una foto de fondo con dos textos.
-El primer texto tiene una animaciÛn de entrada, que lo he hecho insertando en la 
-lÌnea de tiempo un fotograma clave y despuÈs arrastrando la caja de texto he dibujado el movimiento.
-El segundo texto tambiÈn tiene animaciÛn y he seguido la misma tÈcnica que con el anterior, solo que
-el fotograma clave empieza una vez que termina el anterior. En este texto tambiÈn he aÒadido un componente
-de ·rea para tocar que nos redirige a la segunda p·gina, esto lo explicarÈ m·s abajo.
+En la primera p√°gina he puesto una foto de fondo con dos textos.
+El primer texto tiene una animaci√≥n de entrada, que lo he hecho insertando en la 
+l√≠nea de tiempo un fotograma clave y despu√©s arrastrando la caja de texto he dibujado el movimiento.
+El segundo texto tambi√©n tiene animaci√≥n y he seguido la misma t√©cnica que con el anterior, solo que
+el fotograma clave empieza una vez que termina el anterior. En este texto tambi√©n he a√±adido un componente
+de √°rea para tocar que nos redirige a la segunda p√°gina, esto lo explicar√© m√°s abajo.
 
-En la segunda p·gina tambiÈn he puesto una foto de fondo con el texto fijo de volver con un componente
-de ·rea para tocar que nos redirige a la primera p·gina y un texto con movimiento, he utilizado la 
-misma tÈcnica que en los textos animados anteriores.
+En la segunda p√°gina tambi√©n he puesto una foto de fondo con el texto fijo de volver con un componente
+de √°rea para tocar que nos redirige a la primera p√°gina y un texto con movimiento, he utilizado la 
+misma t√©cnica que en los textos animados anteriores.
 
-Para crear la animaciÛn entre las dos p·ginas he aÒadido dos eventos uno que empieza en la primera p·gina
-cuando haces click en "HAZ CLICK" que te lleva a la segunda p·gina con un efecto de transiciÛn.
-En la segunda p·gina he hecho lo mismo con el texto volver.
-[Proceso creaciÛn del banner](img/creacionbanner.PNG) [Imagen1 utilizada para el banner](img/cambio.jpg) [Imagen2 utilizada para el banner](img/futuro.jpg)
+Para crear la animaci√≥n entre las dos p√°ginas he a√±adido dos eventos uno que empieza en la primera p√°gina
+cuando haces click en "HAZ CLICK" que te lleva a la segunda p√°gina con un efecto de transici√≥n.
+En la segunda p√°gina he hecho lo mismo con el texto volver.
+[Proceso creaci√≥n del banner](img/creacionbanner.PNG) [Imagen1 utilizada para el banner](img/cambio.jpg) [Imagen2 utilizada para el banner](img/futuro.jpg)
 
 #### Autora
 
 
 
- **MarÌa Villalobos MartÌn** - [Github](https://github.com/mariavm6)
+ **Mar√≠a Villalobos Mart√≠n** - [Github](https://github.com/mariavm6)
