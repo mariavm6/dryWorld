@@ -48,7 +48,7 @@ Para poder utilizar la herramienta de edición movie maker he tenido que cambiar
 Cortar el video para que empiece en 2017 y se corta con la herramienta Split.
 En Edit aumento la velocidad a 1.75px para que se pueda visualizar la mayor parte del video y después vuelvo a utilizar la herramienta Split para que el video dure los 10s solicitados.
 Para empezar el video he puesto la animación de flip. Otra modificación ha sido usar el efecto visual Hue - cycle entire colorspectrum y añadí audio al vídeo.
-Después en el escaparate virtual dentro de la etiqueta <video> con el atributo poster puse una imágen que se muestra en el escaparate virtual antes de que se reproduzca el vídeo.
+Después en el escaparate virtual dentro de la etiqueta video con el atributo poster puse una imágen que se muestra en el escaparate virtual antes de que se reproduzca el vídeo.
 [Imagen poster](img/poster.jpg)   [Vídeo](video/TemperaturaYprecepitaciónSigloXXI.mp4)
 
 ## Edición del audio:
